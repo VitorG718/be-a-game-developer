@@ -15,7 +15,7 @@ The second part is a endless game, where you have to survive for as long as poss
 - MVVM Architecture
 
 ## Screenshots
-<img src"pictures/screenshot_1.jpeg">
-<img src"pictures/screenshot_2.jpeg">
-<img src"pictures/screenshot_3.jpeg">
-<img src"pictures/screenshot_4.jpeg">
+<img src="pictures/screenshot_1.jpeg">
+<img src="pictures/screenshot_2.jpeg">
+<img src="pictures/screenshot_3.jpeg">
+<img src="pictures/screenshot_4.jpeg">
